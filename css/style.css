@@ -282,7 +282,7 @@ img { max-width:100%; height:auto; display:block; }
 }
 
 .infos-overline{
-  font-size: .68rem;         /* subtítulo menor */
+  font-size: .85rem;         /* subtítulo menor */
   margin: 2px 0 6px 0;
 }
 
@@ -311,3 +311,4 @@ img { max-width:100%; height:auto; display:block; }
   display:block;
   margin: 0 auto;   /* centraliza horizontalmente */
 }
+
